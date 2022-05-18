@@ -1,0 +1,53 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10399</md:content-id>
+    <md:title>Professional Ethics in Engineering</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>e3e52923-1488-4fa9-9dcb-0e2802a9a54e</md:uuid>
+<md:slug>professional-ethics-in-engineering</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Ethical Theory and Group Work</md:title>
+      <col:content>
+        <col:module document="m13764"/>
+        <col:module document="m13760"/>
+        <col:module document="m14256"/>
+        <col:module document="m13755"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Decision Making in the Professional Context</md:title>
+      <col:content>
+        <col:module document="m13758"/>
+        <col:module document="m13757"/>
+        <col:module document="m14025"/>
+        <col:module document="m14033"/>
+        <col:module document="m14036"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Professional Codes of Ethics</md:title>
+      <col:content>
+        <col:module document="m13849"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Engineering Ethics Bowl</md:title>
+      <col:content>
+        <col:module document="m13817"/>
+        <col:module document="m13852"/>
+        <col:module document="m13759"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Assessment and Logistics</md:title>
+      <col:content>
+        <col:module document="m14059"/>
+        <col:module document="m13788"/>
+        <col:module document="m13853"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

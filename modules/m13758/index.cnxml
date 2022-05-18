@@ -1,0 +1,337 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+	<title>Theory-Building Activities: Rights</title>
+	<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5483490f-2ce4-40bf-b7de-4f02d5dad768</md:uuid>
+</metadata>
+	<content>
+
+<section id="modintro">
+<title>Module Introduction</title>
+		
+		
+		
+		<para id="id6539093">Preliminary Draft distributed at APPE, 2005 in
+San Antonio, TX</para>
+		<para id="id6244547">Engineers and other professionals work in large corporations under the supervision of managers who may lack their expertise, skills, and commitment to professional standards.  This creates communication and ethical challenges.  At the very least, professionals are put in the position of having to advocate their ethical and professional standards to those who, while not being opposed to them, may not share their understanding of and commitment to them.
+</para><para id="element-934">This module is designed to give you the tools and the practice using them necessary to prevail in situations that require advocacy of ethical and professional standards.  In this module you carry out several activities.  (1) You will study the philosophical and ethical foundations of modern rights theory through a brief look at Kantian Formalism.  (2) You will learn a framework for examining the legitimacy of rights claims.  (3) You will practice this framework by examining several rights claims that engineers make over their supervisors.  This examination will require that you reject certain elements, rephrase others, and generally recast the claim to satisfy the requirments of the rights justification framework.  (4) Finally, in small groups you will build tables around your reformulation of these rights claims and present the results to the class.  This module will help you to put your results together with the rest of your classmates and collectively assemble a toolkit consisting of the legitimate rights claims that engineers and other professionals can make over their managers and supervisors. </para><para id="id6259524">For more background on rights theory and the relation of rights and duties see (1) Henry Shue, <emphasis>Basic Rights: Subsistence, Affluence, and
+U.S. Foreign Policy</emphasis>, 2nd edition, Princeton, 1980 and (2) Thomas
+Donaldson, <emphasis>The Ethics of International Business</emphasis>, Oxford, 1989. This exercise has been used in computer and engineering ethics classes at the University of Puerto Rico at Mayaguez from 2002 on to the present. It is being incorporated into the textbook, Good Computing: A Virtue Approach to Computer Ethics by Chuck Huff, William Frey, and Jose Cruz.</para>
+</section>
+
+<section id="know">
+<title>What you need to know...</title>
+
+
+
+		<list id="element-653" list-type="enumerated"><title>Problematic Right Claims</title>
+			<item>El derecho para actuar de acuerdo a la conciencia etica y rechazar trabajos en los cuales exista una variacion de opinones morales.</item>
+			<item>El derecho de expresar juicio profesional, y hacer pronunciamientos publicos que sean consistentes con restricciones corporativas sobre la informacion propietaria.</item>
+			<item>El derecho a la lealtad corporativa y la libertad de que sea hecho un chivo expiatorio para catastrofes naturales, ineptitud de administracion u otras fuerzas mas alla del control del ingeniero.</item>
+			<item>El derecho a buscar el mejoramiento personal mediante estudios postgraduados y envolverse en asociaciones profesionales.</item>
+			<item>.El derecho a participar en actividades de partidos politicos fuera de las horas de trabajo.</item>
+			<item>El derecho a solicitar posiciones superiores con otras companias sin que la companis en la que trabaje tome represalias contra el ingeniero.</item>
+			<item>El derecho al debido proceso de ley y la libertad de que se le apliquen penalidades arbitrarias o despidos.</item>
+			<item>El derecho a apelar por revision ante una asociacion profesional, ombudsman o arbitro independiente.</item>
+			<item>El derecho a la privacidad personal.</item>
+<item>Rights claims come from: Bill W. Baker.  (2004)  "Engineering Ethics: An Overview," in <emphasis>Engineering Ethics: Concepts, Viewpoints, Cases and Codes</emphasis>, eds. Jimmy H. Smith and Patricia M. Harper. Compiled and Published by the National Institute for Engineering Ethics: 21-22.</item>
+			<item>Translated into Spanish and published in: <emphasis>Etica en la Practica Profesional de la Ingenieria</emphasis> by Wilfredo Munoz Roman published in 1998 by the Colegio de Ingenieros y Agrimensores de Puerto Rico and Universidad Politecnica de Puerto Rico</item></list><list id="element-251" list-type="enumerated"><title>Problematic Rights Claims quoted directly from Bill Baker, Engineering Ethics: An Overview.  Claims form a "Bill of Rights" set forth by Murray A. Muspratt of Chisholm Institute of Technology, Victoria, Australia (American society of Civil Engineers' Journal of Professional Issues in Engineering, October 1985)</title>
+	<item>"The right to act in according to ethical conscience and to decline assignments where a variance of moral opinion exists.</item>
+	<item>The right to express professional judgment, and to make public pronouncements that are consistent with corporate constraints on proprietary information.</item>
+	<item>The right to corporate loyalty and freedom from being made a scapegoat for natural catastrophes, administrative ineptitude or other forces beyond the engineer's control.</item>
+	<item>The right to seek self-improvement by further education and involvement in professional associations.</item>
+	<item>The right to participate in political party activities outside of working hours.</item>
+	<item>The right to apply for superior positions with other companies without being blacklisted.</item>
+	<item>The right to due process and freedom from arbitrary penalties or dismissal.</item>
+	<item>The right to appeal for ethical review by a professional association, ombudsman or independent arbitrator.</item>
+	<item>The right to personal privacy."</item>
+	</list><list id="element-74" list-type="bulleted"><title>Kantian Formalism, Part I: Aligning the moral motive and the moral act</title>
+	<item>Kant's moral philosophy has exercised substantial influence over our notions of right and duty.  We begin with a brief summary of this theory based on the work, <emphasis>The Foundations of the Metaphysics of Morals</emphasis>.</item>
+	<item>Kant states that the only thing in this world that is good without qualification is a good will.  He characterizes this will in terms of its motive, "duty for duty's sake."</item>
+	<item>Consider the following example.  You see a boy drowning.  Even though the water is rough and the current strong you are a good enough swimmer to save him.  So while your inclination may be to give way to fear and walk away, you are duty-bound to save the drowning boy.</item>
+<item>An action (saving or not saving the drowning boy) has moral worth depending on the correct correlation of right action and right motive.  The following table shows this.</item></list><table id="element-983" summary="">
+<title>Duty for Duty's Sake</title>
+<tgroup cols="3"><tbody>
+		<row>
+			<entry/>
+			<entry>Motive = Inclination (desire for reward or fear)</entry>
+			<entry>Motive = Duty</entry>
+		</row>
+		<row>
+			<entry>Act Conforms to Duty</entry>
+			<entry>You save the drowning boy for the reward.  Act conforms to duty but is motivated by inclination.  Has no moral worth.</entry>
+			<entry>You save the drowning boy because it is your duty.  Act conforms to duty and is for the sake of duty.  Your act has moral worth.</entry>
+		</row>
+		<row>
+			<entry>Act violates a duty.</entry>
+			<entry>You don't save the drowning boy because you are too lazy to jump in.  Act violates duty motivated by inclination.</entry>
+			<entry>You drown trying to save the drowning boy.  He also dies.  Act fails to carry out duty but is motivated by duty anyway.  The act miscarries but since the motive is duty it still has moral worth.</entry>
+		</row>
+	</tbody>
+
+</tgroup>
+</table><list id="element-417" list-type="bulleted"><title>Part II of Kantian Formalism: Giving content to Duty for Duty's Sake</title>
+	<item>Kant sees morality as the expression and realization of the rational will.  The first formulation of this rational will is to will consistently and universally.</item>
+	<item>This leads to the Categorical Imperative: <emphasis>I should act only on that maxim (=personal rule or rule that I give to myself) that can be converted into a universal law (=a rule that applies to everybody without self-contradiction).</emphasis></item>
+	<item>This formulation is an imperative because it commands the will of all reasonable beings.  It is categorical because it commands without exceptions or conditions.  The CI tells me unconditionally not to lie.  It does not say, do not lie unless it promotes your self interest to do so.</item>
+	<item>The following table shows how to use the Categorical Imperative to determine whether I have a duty not to lie.</item></list><table id="element-906" summary="">
+<title>Applying the Categorical Imperative</title>
+<tgroup cols="2"><tbody>
+		<row>
+			<entry>1. Formulate your maxim (=personal rule)</entry>
+			<entry>Whenever I am in a difficult situation, I should tell a lie.</entry>
+		</row>
+		<row>
+			<entry>2. Universalize your maxim.</entry>
+			<entry>Whenever anybody is in a difficult situation, he or she should tell a lie.</entry>
+		</row>
+		<row>
+			<entry>3. Check for a contradiction (logical or practical)</entry>
+			<entry>When I lie, I will the opposite for the universal law.  Put differently, I will that everybody (but me) be a truth-teller and that everybody believe me a truth-teller.  I then make myself the exception to this universal law.  Thus my maxim (I am a liar) contradicts the law (everybody else is a truth-teller)</entry>
+		</row>
+	</tbody>
+
+</tgroup>
+</table><list id="element-657" list-type="bulleted"><title>Kantian Formalism, Part III: The Formula of the End</title>
+	<item>When I will one thing as universal law and make myself the exeception in difficult circumstances, I am treating others, in Kantian terms, merely as means.</item>
+	<item>This implies that I subordinate or bend them to my interests and projects without their consent.  I do this by circumventing their autonomy through (1) force, (2) fraud (often deception), or (3) manipulation.  Treating them with respect would involve telling them what I want (what are my plans and projects) and on this basis asking them to consent to particpate and help me.  The extreme case for treating others merely as means is enslaving them.</item>
+	<item>We do on occasion treat others as means (and not as mere means) when we hire them as employees.  But this is consistent with their autonomy and rational consent because we explain to them what is expected (we give them a job description) and compensate them for their efforts.  For this reason there is a world of difference between hiring others and enslaving them.</item>
+	<item><emphasis>The Formula of the End</emphasis> = <emphasis>Act so as to treat others (yourself included) always as ends and never merely as means</emphasis>.</item></list><list id="element-530" list-type="bulleted"><title>Some Key Definitions for a Rights Framework</title>
+	<item>Kantian formalism provides a foundation for respect for the intrinsic value of humans as autonomous rational beings. Using this as
+a point of departure, we can develop a method for identifying,
+spelling out, and justifying the rights and duties that go with
+professionalism. This framework can be summarized in four
+general propositions:</item>
+	<item>1. Definition: A <emphasis>right</emphasis> is an essential
+capacity of action that others are obliged to recognize and
+respect.  This definition follows from autonomy.
+Autonomy can be broken down into a series of specific capacities.
+Rights claims arise when we identify these capacities and take
+social action to protect them. Rights are inviolable and cannot be
+overridden even when overriding would bring about substantial
+public utility.</item>
+	<item>2. All rights claims must satisfy three
+requirements. They must be (1) <emphasis>essential to the autonomy</emphasis> of
+individuals and (2) <emphasis>vulnerable</emphasis> so that they require special
+recognition and protection (on the part of both individuals and
+society). Moreover, the burden of recognizing and respecting a
+claim as a right must not deprive others of something essential. In
+other words, it must be (3) <emphasis>feasible</emphasis> for both individuals and
+social groups to recognize and respect legitimate rights
+claims.</item>
+	<item>3. Definition: A <emphasis>duty</emphasis> is a rule or principle
+requiring that we both recognize and respect the legitimate rights
+claims of others. Duties attendant on a given right fall into three
+general forms: (a) duties not to deprive, (b) duties to prevent deprivation, and (c) duties to aid the deprived.</item>
+	<item>4. <emphasis>Rights and duties are correlative</emphasis>; for
+every right there is a correlative series of duties to recognize
+and respect that right.</item>
+	<item>These four summary points together form a system of professional and occupational rights and
+correlative duties.</item></list><list list-type="bulleted" id="id6449168"><title>Right Claim Justification Framework</title>
+			<item>Essential: To say that a right is essential to autonomy is to
+say that it highlights a capacity whose exercise is necessary to
+the general exercise of autonomy. For example, autonomy is based on
+certain knowledge skills. Hence, we have a right to an education to
+develop the knowledge required by autonomy, or we have a right to
+the knowledge that produces informed consent. In general, rights
+are devices for recognizing certain capacities as essential to
+autonomy and respecting individuals in their exercise of these
+capacities.</item>
+			<item>Vulnerable: The exercise of the capacity protected under the
+right needs protection. Individuals may interfere with us in our
+attempt to exercise our rights. Groups, corporations, and
+governments might overwhelm us and prevent us from exercising our
+essential capacities. In short, the exercise of the capacity
+requires some sort of protection. For example, an individual’s
+privacy is vulnerable to violation. People can gain access to our
+computers without our authorization and view the information we
+have stored. They can even use this information to harm us in some
+way. The right to privacy, thus, protects certain capacities of
+action that are vulnerable to interference from others. Individual
+and social energy needs to be expended to protect our
+privacy.</item>
+			<item>Feasible: Rights make claims over others; they imply duties
+that others have. These claims must not deprive the correlative
+duty-holders of anything essential. In other words, my rights
+claims over you are not so extensive as to deprive you of your
+rights. My right to life should not deprive you of your right to
+self-protection were I to attack you. Thus, the scope of my right
+claims over you and the rest of society are limited by your ability
+to reciprocate. I cannot push my claims over you to recognize and
+respect my rights to the point where you are deprived of something
+essential.</item>
+		</list><list list-type="bulleted" id="id5942378"><title>Types of Duty Correlative to a Right</title>
+			<item>Duty not to deprive: We have a basic duty not to violate the
+rights of others. This entails that we must both recognize and
+respect these rights. For example, computing specialists have the
+duty not to deprive others of their rights to privacy by hacking
+into private files.</item>
+			<item>Duty to prevent deprivation: Professionals, because of their
+knowledge, are often in the position to prevent others from
+depriving third parties of their rights. For example, a computing
+specialist may find that a client is not taking sufficient pains to
+protect the confidentiality of information about customers.
+Outsiders could access this information and use it without the
+consent of the customers. The computing specialist could prevent
+this violation of privacy by advising the client on ways to protect
+this information, say, through encryption. The computing specialist
+is not about to violate the customers’ rights to privacy. But
+because of special knowledge and skill, the computing specialist
+may be in a position to prevent others from violating this
+right.</item>
+			<item>Duty to aid the deprived: Finally, when others have their
+rights violated, we have the duty to aid them in their recovery
+from damages. For example, a computing specialist might have a duty
+to serve as an expert witness in a lawsuit in which the plaintiff
+seeks to recover damages suffered from having her right to privacy
+violated. Part of this duty would include accurate, impartial, and
+expert testimony.</item>
+		</list><list list-type="enumerated" id="id5538388"><title>Application of Right/Duty Framework</title>
+			<item>We can identify and define specific rights such as due
+process. Moreover, we can set forth some of the conditions involved
+in recognizing and respecting this right.</item>
+			<item>Due Process can be justified by showing that it is essential
+to autonomy, vulnerable, and feasible.</item>
+			<item>Right holders can be specified.</item>
+			<item>Correlative duties and duty holders can be specified.</item>
+			<item>Finally, the correlative duty-levels can be specified as the
+duties not to violate rights, duties to prevent rights violations
+(whenever feasible), and the duties to aid the deprived (whenever
+is feasible).</item>
+		</list><table id="id6086201" summary=""><title>Example Rights Table: Due Process</title>
+			<tgroup cols="5">
+				<colspec colnum="1" colname="c1"/>
+				<colspec colnum="2" colname="c2"/>
+				<colspec colnum="3" colname="c3"/>
+				<colspec colnum="4" colname="c4"/>
+				<colspec colnum="5" colname="c5"/>
+				<tbody>
+					<row>
+						<entry>Right: Due Process</entry>
+						<entry>Justification</entry>
+						<entry>Right-Holder:Engineer as employee and member of professional
+society.</entry>
+						<entry>Correlative Duty-Holder: Engineer's Supervisor, officials in
+professional society.</entry>
+						<entry>Duty Level</entry>
+					</row>
+					<row>
+						<entry>Definition: The right to respond to organizational decisions
+that may harm one in terms of a serious organizational grievance
+procedure.Necessary Conditions:1. Several levels of appeal.2. Time
+limits to each level of appeal.3. Written notice of grievance.4.
+Peer representation.5. Outside arbitration.</entry>
+						<entrytbl cols="1">
+							<colspec colnum="1" colname="c1"/>
+							<tbody>
+								<row>
+									<entry>Essential: Due Process is essential in organizations to
+prevent the deprivation of other rights or to provide aid in the
+case of their deprivation.</entry>
+								</row>
+								<row>
+									<entry>Vulnerable: Rights in general are not recognized in the
+economic sphere, especially in organizations.</entry>
+								</row>
+								<row>
+									<entry>Feasible: Organizations, have successfully implemented due
+process procedures.</entry>
+								</row>
+							</tbody>
+						</entrytbl>
+						<entry>Professionals who are subject to professional codes of
+ethics. Supports professionals who are ordered to violate
+professional standards.</entry>
+						<entry>Human Resources, Management, Personnel
+Department.(Individuals with duty to design, implement, and enforce
+a due process policy)Corporate directors have the duty to make sure
+this is being done.</entry>
+						<entrytbl cols="1">
+							<colspec colnum="1" colname="c1"/>
+							<tbody>
+								<row>
+									<entry>Not to Deprive:Individuals cannot be fired, transferred, or
+demoted without due process</entry>
+								</row>
+								<row>
+									<entry>Prevent Deprivation: Organizations can prevent deprivation
+by designing and implementing a comprehensive due process
+policy.</entry>
+								</row>
+								<row>
+									<entry>Aid the DeprivedBinding arbitration and legal measures must
+exist to aid those deprived of due process rights</entry>
+								</row>
+							</tbody>
+						</entrytbl>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+</section>
+
+<section id="exer">
+<title>What you are going to do...</title>
+
+<list id="element-913" list-type="enumerated"><title>Exercise: Develop a Rights Table</title>
+	<item>You will be divided into small groups and each will be assigned a right claim taken from the above list.</item>
+	<item>Describe the claim (essential capacity of action) made by the right. For
+example, due process claims the right to a serious
+organizational grievance procedure that will enable the right-holder to respond to a decision that has an adverse impact on his or her interests. It may also be necessary in some situations to specify the claim’s necessary
+conditions.</item>
+	<item>Justify the right claim using the rights justification framework.  In other words show that the right claim is essential, vulnerable, and feasible.</item>
+	<item>Be sure to show that the right is essential to <emphasis>autonomy</emphasis>.  If it is vulnerable be sure to identify the <emphasis>standard threat</emphasis>.  (A standard threat is an existing condition that threatens autonomy.)</item>
+	<item>Provide an example of a situation in which the right
+claim becomes active. For example, an engineer may claim a right
+to due process in order to appeal what he or she considers an unfair dismissal, transfer, or performance evaluation.</item>
+	<item>Identify the correlative duty-holder(s)
+that need to take steps to recognize and respect the right. For
+example, private and government organizations may be duty-bound to
+create due process procedures to recognize and respect this
+right.</item>
+	<item>Further spell out the right by showing what actions the correlative duties involve.  For example, a manager should not violate an employee's due process right by firing him or her without just cause.  The organization's human resources department might carry out a training program to help managers avoid depriving employees of this right.  The organization could aid the deprived by designing and implementing binding arbitration involving an impartial third party.</item></list><para id="element-676">Be prepared to debrief on your right claim to the rest of the class.  When other groups are debriefing, you are free to challenge them on whether their claim is essential to autonomy, whether they have identified a valid "standard threat," and whether the correlative duties are feasible or deprive others of something essential.  Your goal as a class is to have a short but effective list of rights that professionals take with them to the workplace. </para><para id="element-903">Makes copies of your rights table and give it to the other groups in class.  Be sure to make a copy for your instructor.  Together, you will build a table of rights claims that engineers and other professionals make against managers and corporations.  This will provide you a useful and comprehensive decision making tool in that you will be able to examine decision alternatives in terms of how they stand with regard to the rights you and your classmates and scrutinized and justified through this exercise.</para>
+</section>
+
+<section id="concl">
+<title>Conclusion</title>
+
+<list id="element-998" list-type="bulleted"><title>Conclusion: Topics for Further Reflection</title>
+			<item>Not every claim to a right is a legitimate
+or justifiable claim. The purpose of this framework is to get you
+into the habit of thinking critically and skeptically about the
+rights claims that you and others make. Every legitimate right
+claim is essential, vulnerable, and feasible. Correlative duties
+are sorted out according to different levels (not to deprive,
+prevent deprivation, and aid the deprived); this, in turn, is based
+on the capacity of the correlative duty holder to carry them out.
+Finally, duties correlative to rights cannot deprive the
+duty-holder of something essential.</item>
+			<item>Unless you integrate your right and its
+correlative duties into the context of your professional or
+practical domain, it will remain abstract and irrelevant. Think
+about your right in the context of the real world. Think of
+everyday situations in which the right and its correlative duties
+will arise. Invent cases and scenarios. If you are an engineering
+student, think of informed consent in terms of the public’s right
+to understand and consent to the risks associated with engineering
+projects. If you are a computing student think of what you can do
+with computing knowledge and skills to respect or violate privacy
+rights. Don’t stop with an abstract accounting of the right and its
+correlative duties.</item>
+			<item>Rights and duties underlie professional
+codes of ethics. But this is not always obvious. For example, the
+right of free and informed consent underlies much of the engineer’s
+interaction with the public, especially the code responsibility to
+hold paramount public health, safety, and welfare. Look at the
+different stakeholder relations covered in a code of ethics. (In
+engineering this would include public, client, profession, and
+peer.) What are the rights and duties outlined in these stakeholder
+relations? How are they covered in codes of ethics?</item>
+			<item>This module is effective in counter-acting
+the tendency to invent rights and use them to rationalize dubious
+actions and intentions. Think of rights claims as credit backed by
+a promise to pay at a later time. If you make a right claim, be
+ready to justify it. If someone else makes a right claim, make them
+back it up with the justification framework presented in this
+module.</item></list>
+</section>
+</content>
+</document>
